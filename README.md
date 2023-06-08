@@ -2,7 +2,7 @@
 
 
 **Yainsy Contreras**
-**Desalloradora full Stack Java y TSU Construciones Civiles**
+**Desalloradora Java y TSU Construciones Civiles**
 
 ✨ Te dejo parte de los `proyectos` en los que he trabajado.✨                                                        
 _Espero te gusten 
@@ -16,6 +16,8 @@ Algunos de los framework y lenguajes que manejo son:
 -  ⚡Angular cli
 -  ⚡Spring, Api rest
 -  ⚡SQL, Mysql Workbench
+-  ⚡Figma
+-  ⚡Photoshop
 -  🌱Apache NetBeans, Maven
 -  🌱Git, Git hub
 -  🌱Conocimientos de Scrum
